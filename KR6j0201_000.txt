@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 菩提場莊嚴陀羅尼經
+#+DATE: 2015-08-30 20:27:48.551550
+#+PROPERTY: JUAN 0
